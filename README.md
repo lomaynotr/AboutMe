@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lomaynotr
+# 👋 Hi, I'm TR Lomayno
 
 **Profession:** Skilled Worker / Agricultural and Biosystems Engineer  
 **Tech Stack:** Mobile Development · Data Analytics · GIS · Video Editing  
